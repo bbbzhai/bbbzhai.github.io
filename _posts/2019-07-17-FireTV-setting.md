@@ -8,8 +8,7 @@ tag:
 - 闲聊
 category: blog
 author: bobzhai
-description: 
-设置ADB在FireTV上安装第三方软件
+description: 设置ADB在FireTV上安装第三方软件
 ---
 
 这两天Amazon的Prime day，闲着没事，于是买了个Fire TV，买不起4K的，就买了个贫民版本的。今天收到货，打开一看，官方的应用很多都需要钱买，本着折腾的精神(和今天option亏了几千块钱)，就装点第三方应用吧。
