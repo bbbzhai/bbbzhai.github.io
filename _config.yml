@@ -59,7 +59,7 @@ authors:
         bio: Still thinking if I should pursue a PhD degree
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: bbbzhai
     zhipengchen:
         name: Zhipeng Chen
         bio: A Man who develops software with coffee
@@ -70,7 +70,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
