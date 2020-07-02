@@ -28,7 +28,7 @@ description: 设置ADB在FireTV上安装第三方软件
 
    * ADB全程是android debug bridge，这里不讲技术，就知道这个是个command line tool，可以把电脑上的软件传输到Fire TV上就好了
 
-   1. 打开Terminal，`brew cask install android-platform-tools`
+   1. 打开Terminal，```brew cask install android-platform-tools```
       * 提示没有Brew的先安装Homebrew：`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
    2. 测试一下：`adb devices`没有报错的话就是安装好了
    3. 下载想要的软件，软件的后缀是apk, 不知道下载什么软件的可以搜‘’Fire TV 安装什么软件‘，我在这里用穿梭做一个例子，可以在[穿梭下载地址](https://www.transocks.com/tv_wechat.html) ,点击一下就下载到本地（这里假设在Download文件夹）
